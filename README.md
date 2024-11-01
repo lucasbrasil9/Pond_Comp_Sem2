@@ -82,8 +82,8 @@ void loop() {
 <div align="center">
   <sub>Figura: Circuito</sub>
   
-  <img src="Semaforo-Circuito1.jpeg" width="100%" >
-  <img src="Semaforo-Circuito2.jpeg" width="100%" >
+  <img src="Semaforo-Circuito1.jpeg" width="50%" >
+  <img src="Semaforo-Circuito2.jpeg" width="50%" >
 </div>
 
 <video controls width="600">
