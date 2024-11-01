@@ -85,14 +85,6 @@ void loop() {
   <img src="Semaforo-Circuito1.jpeg" width="100%" >
   <img src="Semaforo-Circuito2.jpeg" width="100%" >
 </div>
-
-<div align="center">
-  <sub>Figura: Execução do Circuito</sub>
-  <video width="320" height="240" controls>
-    <source src="Semaforo-Execucao.mp4" type="video/mp4">
-  </video>
-  <video src="Semaforo-Execucao.mp4" width="320" height="240" controls></video>
-</div>
   
 ### Avaliação Pares
 
