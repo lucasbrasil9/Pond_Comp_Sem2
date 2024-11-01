@@ -68,7 +68,7 @@ void loop() {
 }
 ```
 
-### Funcionamento do Código
+#### Funcionamento do Código
 
 1. **Definição dos Pinos**: Os LEDs estão conectados aos pinos 13, 12 e 11.
 2. **Ponteiros**: Ponteiros `pinoVermelho`, `pinoAmarelo` e `pinoVerde` armazenam os endereços dos pinos, permitindo o controle indireto.
@@ -77,6 +77,22 @@ void loop() {
    - **Amarelo**: 2 segundos.
    - **Verde**: 2 segundos, mais 2 segundos de tempo extra para pedestres.
    - **Amarelo**: 2 segundos novamente.
+  
+### Circuito e execução
+
+  
+### Avaliação Pares
+
+#### Avaliador: Nome do Avaliador
+
+| Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
+|---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |                           |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |                           |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |                           |
+| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |                           |
+|  |                                                             |  | |**Pontuação Total**|
+
    
 ### Conclusão
 
