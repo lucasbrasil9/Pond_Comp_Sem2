@@ -85,10 +85,10 @@ void loop() {
 <div align="center">
   <img src="Semaforo-Circuito2.jpeg" width="50%" >
 </div>
-<video controls width="600">
-  <source src="Semaforo-Execucao.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+
+https://github.com/user-attachments/assets/6a62f17b-075f-4896-9a17-f89fd48bed21
+
+
   
 ### Avaliação Pares
 
