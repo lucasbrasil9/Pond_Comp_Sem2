@@ -92,15 +92,15 @@ https://github.com/user-attachments/assets/6a62f17b-075f-4896-9a17-f89fd48bed21
   
 ### Avaliação Pares
 
-#### Avaliador: Nome do Avaliador
+#### Avaliador: Eduardo Fidelis Chaves
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
-| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |                           |
-| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |                           |
-| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |                           |
-| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |                           |
-|  |                                                             |  | |**Pontuação Total**|
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | 2,5             |                       |                      |                       A montagem do circuito está correta, mas acredito que as cores dos jumpers poderiam ser mais representativas.    |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | 3              |                          |                        | Temporização correta de acordo com o que foi proposto.                          |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) |    3        |                          |                        |  Código utiliza ponteiros da maneira correta, as variáveis são explicativas e o código é legível como um todo.                       |
+| Extra: Implementou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | 1           |                         |                        |                       Preferiu pela utilização de ponteiros no código, de maneira correta.    |
+|  |                                                             |  | |*Pontuação Total*  9,5|
 
 #### Avaliador: Nome do Avaliador
 
