@@ -102,16 +102,15 @@ https://github.com/user-attachments/assets/6a62f17b-075f-4896-9a17-f89fd48bed21
 | Extra: Implementou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | 1           |                         |                        |                       Preferiu pela utilização de ponteiros no código, de maneira correta.    |
 |  |                                                             |  | |*Pontuação Total*  9,5|
 
-#### Avaliador: Nome do Avaliador
+#### Avaliador: João Gabriel de Ouro Preto
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
-| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | Até 3              | Até 1,5                            | 0                        |                           |
-| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | Até 3              | Até 1,5                          | 0                        |                           |
-| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | Até 3              | Até 1,5                          | 0                        |                           |
-| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |                           |
-|  |                                                             |  | |**Pontuação Total**|
-
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                | 2,5             |                             |                         |  Bom uso dos resistores, mas acredito que poderia ter escolhido melhor as cores dos jumpers                         |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo                  | 3              |                           |                         |  Correto                         |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) |  3              |                           |                         | Correto                          |
+| Extra: Implmeentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | 0.75              |                           |                         |   Boa utilização dos ponteiros no codigo, mas não houve a utilização te um metodo liga/desliga                        |
+|  |                                                             |  | |*Pontuação Total* 9,25|
    
 ### Conclusão
 
